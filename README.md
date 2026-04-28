@@ -22,3 +22,13 @@ I managed this project using an **8-day sprint**. I utilized **Daily Standups** 
 
 ## AI Collaboration
 I worked with AI as a "Senior Engineer" partner. I used it primarily to troubleshoot PDF encoding issues with `latin-1` and to optimize the logic that toggles between "Guest View" and "Admin View" using session states.
+
+## How to Run
+To run this project on your own computer:
+1. **Clone the repo:** `git clone https://github.com/beyza-batman/beyza-resume-app.git`
+2. **Install requirements:** `pip install -r requirements.txt`
+3. **Run the app:** `streamlit run resume.py`
+
+## The Team
+* **Lead Developer / Project Manager:** Beyza Sahin
+* **Designer:** Beyza Sahin
