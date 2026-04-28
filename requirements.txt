@@ -1,3 +1,8 @@
+<<<<<<< HEAD
 streamlit
 Pillow
+=======
+streamlit
+Pillow
+>>>>>>> a987ea4cdb8b0be3a52c09baf763b37de608a6b0
 fpdf
